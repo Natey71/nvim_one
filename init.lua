@@ -1,0 +1,5 @@
+require("mende")
+
+print("Hello")
+
+
