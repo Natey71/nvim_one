@@ -1,0 +1,3 @@
+I have never used neovim. I went through the tutorial that is provided with base neovim install, I love the way you can more with the keyboard and creating features for yourself to use. 
+
+I started to work on customizing my own configuration and this is the start, a new ones to come...
